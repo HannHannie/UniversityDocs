@@ -1,0 +1,10 @@
+John Doe 95
+Alice Smith 88
+Bob Johnson 72
+Charlie Brown 60
+David Wilson 45
+Emma Davis 91
+Frank Thomas 67
+Grace Lee 82
+Henry Martin 50
+Isabella White 78
